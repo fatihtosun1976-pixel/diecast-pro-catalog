@@ -1,0 +1,433 @@
+﻿{
+    "schemaVersion":  5,
+    "catalogType":  "STH_ONLY",
+    "manufacturer":  "Mattel",
+    "brand":  "Hot Wheels",
+    "year":  2026,
+    "updatedUtc":  "2026-09-16T21:00:34.4884615Z",
+    "count":  15,
+    "imageCount":  15,
+    "imagePolicy":  "Local Image Pack - user managed rights",
+    "models":  [
+                   {
+                       "id":  "hw-sth-2026-jjm15-drift-ender",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "A",
+                       "model":  "Drift Ender",
+                       "hwNumber":  "13",
+                       "partNumber":  "JJM15",
+                       "color":  "Spectraflame Red",
+                       "series":  "Truckin\u0027 Along",
+                       "seriesNumber":  "1",
+                       "image":  "images/JJM15.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/drift-ender/JJM15/spectraflame-red.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Drift-Ender",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm16-ford-mustang-gtd",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "B",
+                       "model":  "Ford Mustang GTD",
+                       "hwNumber":  "43",
+                       "partNumber":  "JJM16",
+                       "color":  "Spectraflame Blue",
+                       "series":  "Factory Fresh",
+                       "seriesNumber":  "3",
+                       "image":  "images/JJM16.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/ford-mustang-gtd/JJM16/spectraflame-blue.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm17-ferrari-f40-competizione",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "C",
+                       "model":  "Ferrari F40 Competizione",
+                       "hwNumber":  "63",
+                       "partNumber":  "JJM17",
+                       "color":  "Spectraflame Black",
+                       "series":  "Ferrari",
+                       "seriesNumber":  "3",
+                       "image":  "images/JJM17.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/ferrari-f40-competizione/JJM17/spectraflame-black.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Ferrari_F40_Competizione",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm18-64-impala",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "D",
+                       "model":  "\u002764 Impala",
+                       "hwNumber":  "95",
+                       "partNumber":  "JJM18",
+                       "color":  "Spectraflame Teal",
+                       "series":  "Layin\u0027 Low",
+                       "seriesNumber":  "4",
+                       "image":  "images/JJM18.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/64-impala/JJM18/spectraflame-teal.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/\u002764_Impala",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm19-87-ford-sierra-cosworth",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "E",
+                       "model":  "\u002787 Ford Sierra Cosworth",
+                       "hwNumber":  "116",
+                       "partNumber":  "JJM19",
+                       "color":  "Spectraflame Pink",
+                       "series":  "HW Euro",
+                       "seriesNumber":  "5",
+                       "image":  "images/JJM19.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/87-ford-sierra-cosworth/JJM19/spectraflame-pink.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/\u002787_Ford_Sierra_Cosworth",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm20-honda-civic-custom",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "F",
+                       "model":  "Honda Civic Custom",
+                       "hwNumber":  "151",
+                       "partNumber":  "JJM20",
+                       "color":  "Spectraflame Teal",
+                       "series":  "Drag Racers",
+                       "seriesNumber":  "8",
+                       "image":  "images/JJM20.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/honda-civic-custom/JJM20/spectraflame-teal.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Honda_Civic_Custom",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm21-custom-otto",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "G",
+                       "model":  "Custom Otto",
+                       "hwNumber":  "156",
+                       "partNumber":  "JJM21",
+                       "color":  "Spectraflame Blue",
+                       "series":  "Mattel",
+                       "seriesNumber":  "5",
+                       "image":  "images/JJM21.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/custom-otto/JJM21/spectraflame-blue.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Custom_Otto",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm22-lotus-sport-elise",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "H",
+                       "model":  "Lotus Sport Elise",
+                       "hwNumber":  "160",
+                       "partNumber":  "JJM22",
+                       "color":  "Spectraflame Orange",
+                       "series":  "Compact Kings",
+                       "seriesNumber":  "7",
+                       "image":  "images/JJM22.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/lotus-sport-elise/JJM22/spectraflame-orange.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm23-subaru-impreza",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "J",
+                       "model":  "Subaru Impreza",
+                       "hwNumber":  "176",
+                       "partNumber":  "JJM23",
+                       "color":  "Spectraflame Blue",
+                       "series":  "HW J-Imports",
+                       "seriesNumber":  "7",
+                       "image":  "images/JJM23.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/subaru-impreza/JJM23/spectraflame-blue.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Subaru_Impreza",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm25-94-toyota-supra",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "K",
+                       "model":  "\u002794 Toyota Supra",
+                       "hwNumber":  "222",
+                       "partNumber":  "JJM25",
+                       "color":  "Spectraflame Black",
+                       "series":  "Tooned",
+                       "seriesNumber":  "5",
+                       "image":  "images/JJM25.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/94-toyota-supra/JJM25/spectraflame-black.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/\u002794_Toyota_Supra_(Tooned)",
+                                           "matchStatus":  "possible_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm26-nissan-maxima-drift-car",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "L",
+                       "model":  "Nissan Maxima Drift Car",
+                       "hwNumber":  "225",
+                       "partNumber":  "JJM26",
+                       "color":  "Black",
+                       "series":  "Wagons",
+                       "seriesNumber":  "10",
+                       "image":  "images/JJM26.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/nissan-maxima-drift-car/JJM26/black.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm24-porsche-911-carrera-rs-2-7",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "M",
+                       "model":  "Porsche 911 Carrera RS 2.7",
+                       "hwNumber":  "208",
+                       "partNumber":  "JJM24",
+                       "color":  "Spectraflame Brown",
+                       "series":  "Then and Now",
+                       "seriesNumber":  "9",
+                       "image":  "images/JJM24.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/porsche-911-carrera-rs-2-7/JJM24/spectraflame-brown.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm27-23-ram-1500",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "N",
+                       "model":  "\u002723 Ram 1500",
+                       "hwNumber":  "234",
+                       "partNumber":  "JJM27",
+                       "color":  "Spectraflame Purple",
+                       "series":  "HW Dirt",
+                       "seriesNumber":  "9",
+                       "image":  "images/JJM27.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/23-ram-1500/JJM27/spectraflame-purple.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/\u002723_Ram_1500",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm28-70-plymouth-aar-cuda",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "P",
+                       "model":  "\u002770 Plymouth AAR Cuda",
+                       "hwNumber":  "245",
+                       "partNumber":  "JJM28",
+                       "color":  "Spectraflame Gold",
+                       "series":  "HW Torque",
+                       "seriesNumber":  "9",
+                       "image":  "images/JJM28.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/70-plymouth-aar-cuda/JJM28/spectraflame-gold.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/\u002770_Plymouth_AAR_Cuda",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   },
+                   {
+                       "id":  "hw-sth-2026-jjm29-67-pontiac-firebird-400",
+                       "manufacturer":  "Mattel",
+                       "brand":  "Hot Wheels",
+                       "year":  2026,
+                       "type":  "STH",
+                       "case":  "Q",
+                       "model":  "\u002767 Pontiac Firebird 400",
+                       "hwNumber":  "249",
+                       "partNumber":  "JJM29",
+                       "color":  "Spectraflame Blue",
+                       "series":  "Cool Classics",
+                       "seriesNumber":  "9",
+                       "image":  "images/JJM29.jpg",
+                       "imageType":  "local_user_provided",
+                       "imageRights":  "user_managed",
+                       "sources":  [
+                                       {
+                                           "name":  "164Custom",
+                                           "url":  "https://164custom.com/hotwheels/67-pontiac-firebird-400/JJM29/spectraflame-blue.html"
+                                       },
+                                       {
+                                           "name":  "Hot Wheels Wiki",
+                                           "url":  "https://hotwheels.fandom.com/wiki/\u002767_Pontiac_Firebird_400",
+                                           "matchStatus":  "name_match"
+                                       }
+                                   ]
+                   }
+               ]
+}

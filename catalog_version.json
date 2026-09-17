@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  5,
+    "catalogType":  "STH_ONLY",
+    "catalogVersion":  2026091621,
+    "updatedUtc":  "2026-09-16T21:00:34.5207342Z",
+    "catalogs":  {
+                     "hotwheelsSTH":  {
+                                          "2026":  {
+                                                       "count":  15,
+                                                       "imageCount":  15,
+                                                       "path":  "hotwheels/sth/2026/sth.json",
+                                                       "imageMode":  "local_image_pack"
+                                                   }
+                                      }
+                 }
+}

@@ -1,0 +1,82 @@
+﻿{
+    "year":  2026,
+    "count":  15,
+    "builtUtc":  "2026-09-16T21:00:34.5207342Z",
+    "files":  [
+                  {
+                      "name":  "JJM15.jpg",
+                      "bytes":  138566,
+                      "sha256":  "D3F73E0CBE52AD8DEB8DF8E561136DB7718E55FC864378D95F2E97660A4631A6"
+                  },
+                  {
+                      "name":  "JJM16.jpg",
+                      "bytes":  141611,
+                      "sha256":  "53E7B6D060A79C55DCF90C44D7975707C42AF0452BA47E485F1EC453277E5018"
+                  },
+                  {
+                      "name":  "JJM17.jpg",
+                      "bytes":  130236,
+                      "sha256":  "FC831DD4D0E022A9327688A583FD34DDFBBEDDC0F54512E66EC2158C60FBBCF3"
+                  },
+                  {
+                      "name":  "JJM18.jpg",
+                      "bytes":  154790,
+                      "sha256":  "79BEBD2CCBA9BE99C3C13667E91D73F1B553EC847379EC5DD7420387546CA620"
+                  },
+                  {
+                      "name":  "JJM19.jpg",
+                      "bytes":  148403,
+                      "sha256":  "697651BB9E885BC6A75229415A7B30AFB549F0F2ED15153066A5038B8D70FDB6"
+                  },
+                  {
+                      "name":  "JJM20.jpg",
+                      "bytes":  140067,
+                      "sha256":  "E69BFAA580F0EA45B76C0946D883AF965DF0387C95777C2D6C71CEC5DB8B7629"
+                  },
+                  {
+                      "name":  "JJM21.jpg",
+                      "bytes":  145245,
+                      "sha256":  "73B42855D1BB734B5B3D225F6A50AEFED919B2343952D0DE14E9F01A84620321"
+                  },
+                  {
+                      "name":  "JJM22.jpg",
+                      "bytes":  75353,
+                      "sha256":  "972D9393C45B58049653789FBD6A2EA813401C9EEDBE6E3ECA91024CD4606166"
+                  },
+                  {
+                      "name":  "JJM23.jpg",
+                      "bytes":  68740,
+                      "sha256":  "536F7D4E891F3C64618F50ADFCE8F5BA55264955838898DBBDD1BADCEDA38341"
+                  },
+                  {
+                      "name":  "JJM24.jpg",
+                      "bytes":  142903,
+                      "sha256":  "8EDEA681FFBC0FBC1A59955C8982B342F5B900788814614FDC90AC2E8C5FA007"
+                  },
+                  {
+                      "name":  "JJM25.jpg",
+                      "bytes":  161536,
+                      "sha256":  "C395F171129C06CC67F5404A3F5BF7DD2F9D5ECA889A690265D96F11544B71AE"
+                  },
+                  {
+                      "name":  "JJM26.jpg",
+                      "bytes":  153324,
+                      "sha256":  "9488BE8B8EDB34A938225A6FE42AF67963C04F7492BE9642E08F32342CB26FD6"
+                  },
+                  {
+                      "name":  "JJM27.jpg",
+                      "bytes":  149516,
+                      "sha256":  "C28C95EAAA8AED329FCE5CD63B33336F888997BADA48ABB951E784F35460050A"
+                  },
+                  {
+                      "name":  "JJM28.jpg",
+                      "bytes":  157216,
+                      "sha256":  "A4E5109C16825FF429DA4D3750FF184EDF04ACBF2EDCEF46F68DF05F1B94C48D"
+                  },
+                  {
+                      "name":  "JJM29.jpg",
+                      "bytes":  146436,
+                      "sha256":  "F4259E469BADD53BC8D52BDB45A063857CFF103AF4ED2237967F0A3D8F7E9F49"
+                  }
+              ]
+}
